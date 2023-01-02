@@ -1,6 +1,6 @@
 # Spirit_Quest
 Makers:
-1. Kevin Lope
+1. Kevin Lopez
 2. Randy Bui
 3. James McAllister
 4. Joshua Pearson
